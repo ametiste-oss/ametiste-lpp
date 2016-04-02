@@ -10,3 +10,7 @@ Project conatins common documantation about protocols, links to Routine and L-Pl
 [Routine Framework](https://github.com/ametiste-oss/ametiste-routine-framework) - task based processing framework that use lambda platform to provide functionality for tasks and operations.
 
 ## Protocols
+
+Common protocols:
+
+* [lpp-lmdb](https://github.com/ametiste-oss/ametiste-lpp-lmdb) - operation with LMDB database.
